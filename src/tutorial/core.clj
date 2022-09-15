@@ -4,6 +4,6 @@
 (defn -main
   [& args]
   (println "
- Hi, Tingting!"))
+ Hello World, Tingting!"))
 
 
